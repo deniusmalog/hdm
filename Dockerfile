@@ -1,7 +1,5 @@
 FROM ubuntu:16.04
 
-ENV ADDRESS 42cb3URRBdoKoDiU6GzfrFC1n6R8d6E3uF2TCLA6RR6YZjU8qdbSdCwRfcAkRwTigVh1CbWNUNJP1ZQhXMXWLooM3xDHZyL
-
 WORKDIR /usr/local/bin
 RUN cd /usr/local/bin
 
